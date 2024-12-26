@@ -24,9 +24,3 @@ def inBox(box):
                     return False
     
     return found
-
-print(inBox([
-  "###",
-  "#*#",
-  "###"
-]))
